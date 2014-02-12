@@ -1,0 +1,221 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-12 21:54+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: video6.php:6
+msgid "Serpents Tongue Tutorial video"
+msgstr ""
+
+#: video6.php:11
+msgid "Casting spells:"
+msgstr ""
+
+#: video6.php:13
+msgid "In order to cast spells in Serpents's Tongue,"
+msgstr ""
+
+#: video6.php:15
+msgid "Magi must speak the correct activation phrase on the back of the spell,"
+msgstr ""
+
+#: video6.php:17
+msgid "players may not look at the back of their spells once a match begins."
+msgstr ""
+
+#: video6.php:19
+msgid "In order to cast the spell put it out of your codex,"
+msgstr ""
+
+#: video6.php:21
+msgid "hold it up to your opponent and speak the phrase,"
+msgstr ""
+
+#: video6.php:23
+msgid "if you are successful, they will say \"Alum\"."
+msgstr ""
+
+#: video6.php:25
+msgid "Which means success in the language or Serpent's Tongue,"
+msgstr ""
+
+#: video6.php:27
+msgid "then place the spell in his target zone."
+msgstr ""
+
+#: video6.php:29
+msgid "If you are unsuccessful, they will say \"Kotukh\","
+msgstr ""
+
+#: video6.php:31
+msgid "the spells put back into your codex unprepared."
+msgstr ""
+
+#: video6.php:33
+msgid "And you cannot cast a spell with the same title again this round."
+msgstr ""
+
+#: video6.php:35
+msgid "You loose one \"Harmony\" and all players at the table game"
+msgstr ""
+
+#: video6.php:37
+msgid "gain one \"Resonnance\" even your allies."
+msgstr ""
+
+#: video6.php:39
+msgid "to help you cast spell, each spell has a language section,"
+msgstr ""
+
+#: video6.php:41
+msgid "on lower level spells this include a glyph,"
+msgstr ""
+
+#: video6.php:43
+msgid "beginning players can decode the glyph using the Serpent's Key"
+msgstr ""
+
+#: video6.php:45
+msgid "Level 1 glyphs only require the caster to speak"
+msgstr ""
+
+#: video6.php:47
+msgid "the name the letters identified by the glyph,"
+msgstr ""
+
+#: video6.php:49
+msgid "for example on this level 1 spell begin by matching"
+msgstr ""
+
+#: video6.php:51
+msgid "the point marked with the circle, and speak that letter,"
+msgstr ""
+
+#: video6.php:53
+msgid "then the next point and finally the point marked by the endline."
+msgstr ""
+
+#: video6.php:55
+msgid "Level 2 glyphs get more difficult,"
+msgstr ""
+
+#: video6.php:57
+msgid ""
+"casters need to use the different points on the glyph to create the whole "
+"word."
+msgstr ""
+
+#: video6.php:59
+msgid "So the process is to speak the spells, then place."
+msgstr ""
+
+#: video6.php:61
+msgid "Once the spell is in place you must activate it."
+msgstr ""
+
+#: video6.php:63
+msgid "In order to activate it you must pay or collect"
+msgstr ""
+
+#: video6.php:65
+msgid "any energy cost associated with the card."
+msgstr ""
+
+#: video6.php:67
+msgid "Red numbers means energy you must pay,"
+msgstr ""
+
+#: video6.php:69
+msgid ""
+"blue numbers represent the amount of ernergy you collect upon activation."
+msgstr ""
+
+#: video6.php:71
+msgid ""
+"If you cannot afford activate the spell, then it is wasted and discarded."
+msgstr ""
+
+#: video6.php:73
+msgid ""
+"Also you must check for any additionnal requirements or prerequisit to the "
+"card,"
+msgstr ""
+
+#: video6.php:75
+msgid "which can be seen in the requirement section of the card, here."
+msgstr ""
+
+#: video6.php:77
+msgid "For example, that touch requires that the caster be in"
+msgstr ""
+
+#: video6.php:79
+msgid "\"Dark Chi Form\" in order to be allowed to activate this spell."
+msgstr ""
+
+#: video6.php:81
+msgid "Here come some of the most common requirements:"
+msgstr ""
+
+#: video6.php:83
+msgid "Requires: \"Discard Matter Component\","
+msgstr ""
+
+#: video6.php:85
+msgid "in order to activate this spell you or/and ally must have"
+msgstr ""
+
+#: video6.php:87
+msgid "an active Matter Component."
+msgstr ""
+
+#: video6.php:89
+msgid "Which you then discard upon activating the spell."
+msgstr ""
+
+#: video6.php:91
+msgid "Requires: \"Active Rift\","
+msgstr ""
+
+#: video6.php:93
+msgid "this spell requires for you or an ally to have"
+msgstr ""
+
+#: video6.php:95
+msgid "an Active Rift in play,"
+msgstr ""
+
+#: video6.php:97
+msgid "it is not discarded, it simply needs to be on the table."
+msgstr ""
+
+#: video6.php:99
+msgid ""
+"Requires: \"Pay 1 Essence\", you'll have to sacrifice one of your \"Essence\""
+msgstr ""
+
+#: video6.php:101
+msgid "in order to activate this spell."
+msgstr ""
+
+#: video6.php:103
+msgid "Once the requirements have been mate,"
+msgstr ""
+
+#: video6.php:105
+msgid "the spell activates and then immediately impacts its effects."
+msgstr ""

@@ -1,0 +1,106 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-06 02:52+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: video5.php:6
+msgid "Serpents Tongue Tutorial video"
+msgstr ""
+
+#: video5.php:11
+msgid "Spell preparation:"
+msgstr ""
+
+#: video5.php:13
+msgid "In PVP matches, players must choose the spells they're going to cast"
+msgstr ""
+
+#: video5.php:15
+msgid "before the action phase begins."
+msgstr ""
+
+#: video5.php:17
+msgid "Magis may prepare up to 3 spells,"
+msgstr ""
+
+#: video5.php:19
+msgid "to do this they must find the spells,"
+msgstr ""
+
+#: video5.php:21
+msgid "and place them in the front pocket of the codex."
+msgstr ""
+
+#: video5.php:23
+msgid "Action Phase:"
+msgstr ""
+
+#: video5.php:25
+msgid "This is the phase where Magis take their actions:"
+msgstr ""
+
+#: video5.php:27
+msgid "cast spells, meditate or execute abiliites."
+msgstr ""
+
+#: video5.php:29
+msgid "Each Magi has 2 full actions per round."
+msgstr ""
+
+#: video5.php:31
+msgid "Beginning with the Magi with initiative,"
+msgstr ""
+
+#: video5.php:33
+msgid "players take turns taking their actions,"
+msgstr ""
+
+#: video5.php:35
+msgid "casting a spell takes a full action by default,"
+msgstr ""
+
+#: video5.php:37
+msgid "alternatively players may choose to meditate"
+msgstr ""
+
+#: video5.php:39
+msgid "for their action to gain 2 \"Resonnance\" and 1 \"Harmony\"."
+msgstr ""
+
+#: video5.php:41
+msgid "Some spells and abilities have the \"Free action\" empowerment,"
+msgstr ""
+
+#: video5.php:43
+msgid "players may take unlimited amount of free actions in a round,"
+msgstr ""
+
+#: video5.php:45
+msgid "but once they take a free action place still rotate to the next player,"
+msgstr ""
+
+#: video5.php:47
+msgid "just as effect of a full action."
+msgstr ""
+
+#: video5.php:49
+msgid "The round continues until all players have taken"
+msgstr ""
+
+#: video5.php:51
+msgid "their 2 full actions and any free actions they wish to take."
+msgstr ""

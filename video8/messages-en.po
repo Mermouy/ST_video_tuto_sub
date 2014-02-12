@@ -1,0 +1,172 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# MerMouY <boardgametrans@gmail.com>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Serpent's Tongue Video Tutorial 8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-13 00:15+0100\n"
+"PO-Revision-Date: 2014-02-13 00:18+0100\n"
+"Last-Translator: MerMouY <boardgametrans@gmail.com>\n"
+"Language-Team: français <boardgametrans@gmail.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+#: video8.php:6
+msgid "Serpents Tongue Tutorial video"
+msgstr "Serpents Tongue Tutorial video"
+
+#: video8.php:11
+msgid "Spell types:"
+msgstr "Spell types:"
+
+#: video8.php:13
+msgid "There is 6 key (chi?) spell types or roles in Serpent's Tongue:"
+msgstr "There is 6 key (chi?) spell types or roles in Serpent's Tongue:"
+
+#: video8.php:15
+msgid "Attacks"
+msgstr "Attacks"
+
+#: video8.php:17 video8.php:31
+msgid "Defenses"
+msgstr "Defenses"
+
+#: video8.php:19
+msgid "And Enhancements"
+msgstr "And Enhancements"
+
+#: video8.php:21
+msgid "And Abjurations"
+msgstr "And Abjurations"
+
+#: video8.php:23
+msgid "Transmutes"
+msgstr "Transmutes"
+
+#: video8.php:25
+msgid "And Components"
+msgstr "And Components"
+
+#: video8.php:27
+msgid "Attacks are fairly straight forward,"
+msgstr "Attacks are fairly straight forward,"
+
+#: video8.php:29
+msgid "they target Magi and are placed in the target attack zone."
+msgstr "they target Magi and are placed in the target attack zone."
+
+#: video8.php:33
+msgid "Defenses consist of Shields, Wards and Evades."
+msgstr "Defenses consist of Shields, Wards and Evades."
+
+#: video8.php:35
+msgid "Shield can block [...] effects and after have durability."
+msgstr "Shield can block [...] effects and after have durability."
+
+#: video8.php:37
+msgid "Evades usually block a single effect that can be played as a response."
+msgstr "Evades usually block a single effect that can be played as a response."
+
+#: video8.php:39
+msgid "Ward reduce damages that have been taken. "
+msgstr "Ward reduce damages that have been taken. "
+
+#: video8.php:41
+msgid "Defenses are placed in your or your ally defense zone,"
+msgstr "Defenses are placed in your or your ally defense zone,"
+
+#: video8.php:43
+msgid "they protect not just their bearer"
+msgstr "they protect not just their bearer"
+
+#: video8.php:45
+msgid "but also their spells,"
+msgstr "but also their spells,"
+
+#: video8.php:47
+msgid "defenses even protect themselves."
+msgstr "defenses even protect themselves."
+
+#: video8.php:49
+msgid ""
+"Defenses have a defense bar to show what kind of spells it protects against."
+msgstr ""
+"Defenses have a defense bar to show what kind of spells it protects against."
+
+#: video8.php:51
+msgid ""
+"In most cases it will protect against all spells from the listed spheres."
+msgstr ""
+"In most cases it will protect against all spells from the listed spheres."
+
+#: video8.php:53
+msgid "Enhancements [...] and heal their bearer,"
+msgstr "Enhancements [...] and heal their bearer,"
+
+#: video8.php:55
+msgid "they are placed in the Enhancement Zone"
+msgstr "they are placed in the Enhancement Zone"
+
+#: video8.php:57
+msgid "alongside your specialization and artefact."
+msgstr "alongside your specialization and artefact."
+
+#: video8.php:59
+msgid "Note that you can only have 4 cards in your Enhancement Zone."
+msgstr "Note that you can only have 4 cards in your Enhancement Zone."
+
+#: video8.php:61
+msgid "At the beginning of your maintenance phase "
+msgstr "At the beginning of your maintenance phase "
+
+#: video8.php:63
+msgid "if you have more than 4 cards in your Enhancement Zone"
+msgstr "if you have more than 4 cards in your Enhancement Zone"
+
+#: video8.php:65
+msgid "you must immediately discard down to 4."
+msgstr "you must immediately discard down to 4."
+
+#: video8.php:67
+msgid ""
+"Abjurations and transmutes are different in that they target other spells,"
+msgstr ""
+"Abjurations and transmutes are different in that they target other spells,"
+
+#: video8.php:69
+msgid "Abjurations have one time effects,"
+msgstr "Abjurations have one time effects,"
+
+#: video8.php:71
+msgid "while Transmutes bound to the target card."
+msgstr "while Transmutes bound to the target card."
+
+#: video8.php:73
+msgid ""
+"If a target card or a Transmuted card is discarded solo of his Transmute"
+msgstr ""
+"If a target card or a Transmuted card is discarded solo of his Transmute"
+
+#: video8.php:75
+msgid "Finally there are Components,"
+msgstr "Finally there are Components,"
+
+#: video8.php:77
+msgid "which are placed in your defense zone."
+msgstr "which are placed in your defense zone."
+
+#: video8.php:79
+msgid "these are ingredients which are used to cast other spells."
+msgstr "these are ingredients which are used to cast other spells."

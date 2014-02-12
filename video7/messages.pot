@@ -1,0 +1,210 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Serpent's Tongue Video Tutorial\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-13 00:02+0100\n"
+"PO-Revision-Date: 2014-02-13 00:05+0100\n"
+"Last-Translator: MerMouY <mermouy@gmail.com>\n"
+"Language-Team: Boardgametrans <boardgametrans@gmail.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: .\n"
+
+#: video7.php:6
+msgid "Serpents Tongue Tutorial video"
+msgstr ""
+
+#: video7.php:11
+msgid "Let's review all the differents elements of a Spell Card:"
+msgstr ""
+
+#: video7.php:13
+msgid "In the upper left corneris the sphere of reality"
+msgstr ""
+
+#: video7.php:15
+msgid "the spell magic is sourced from."
+msgstr ""
+
+#: video7.php:17
+msgid "This determines many cards interactions?"
+msgstr ""
+
+#: video7.php:19
+msgid "and whenether the defenses work against this spell."
+msgstr ""
+
+#: video7.php:21
+msgid "There is 6 spheres of reality in Serpent's Tongue:"
+msgstr ""
+
+#: video7.php:23
+msgid "The three etheric spheres: Soul, Mind and Quantum."
+msgstr ""
+
+#: video7.php:25
+msgid "And the three physicals spheres: Bio, Matter and Forces."
+msgstr ""
+
+#: video7.php:27
+msgid "For more information about Spheres, check out our indepts Spheres videos."
+msgstr ""
+
+#: video7.php:29
+msgid "In the upper right corner is the spell type or role,"
+msgstr ""
+
+#: video7.php:31
+msgid "there are 6 common roles or types of spells,"
+msgstr ""
+
+#: video7.php:33
+msgid "which will be explaned in the next chapter."
+msgstr ""
+
+#: video7.php:35
+msgid "The card cost, these 2 holders show the \"Resonnance\" and \"Harmony\""
+msgstr ""
+
+#: video7.php:37
+msgid "either required to activate the spell or collected upon activation."
+msgstr ""
+
+#: video7.php:39
+msgid "The aspect list, this is a very important section of a spell card,"
+msgstr ""
+
+#: video7.php:41
+msgid "it identifies all the default effects of the spell,"
+msgstr ""
+
+#: video7.php:43
+msgid "its empowerments like duration, or free action,"
+msgstr ""
+
+#: video7.php:45
+msgid "and list out its descriptors. "
+msgstr ""
+
+#: video7.php:47
+msgid "Descriptors are additionnal categories"
+msgstr ""
+
+#: video7.php:49
+msgid "assign to the spell which have no default rules,"
+msgstr ""
+
+#: video7.php:51
+msgid "they just identify possible card interactions."
+msgstr ""
+
+#: video7.php:53
+msgid "For example this Matter Shield has the descriptor of shaping,"
+msgstr ""
+
+#: video7.php:54
+msgid "which not directly impacts upon the card itself"
+msgstr ""
+
+#: video7.php:55
+msgid "but will allow the shield to synergize with other effects."
+msgstr ""
+
+#: video7.php:56
+msgid "Specific one-time effects like damage, healing or dispells,"
+msgstr ""
+
+#: video7.php:57
+msgid "listed out in the aspect list will occur when a spell card"
+msgstr ""
+
+#: video7.php:58
+msgid "activates and again each maintenance phase that it remains active."
+msgstr ""
+
+#: video7.php:59
+msgid "The requires field, as noticed before,"
+msgstr ""
+
+#: video7.php:60
+msgid "these are additionnal cost or requirements to activate or sustain the spell."
+msgstr ""
+
+#: video7.php:61
+msgid "Be sure you can fulfill the requirements of the spell before you cast it."
+msgstr ""
+
+#: video7.php:62
+msgid "If you cannot fulfill the requirements at the time of activation then it will be discarded."
+msgstr ""
+
+#: video7.php:63
+msgid "In this case Materia Bindings of Mal-Kuth requires the caster to have Solid,"
+msgstr ""
+
+#: video7.php:64
+msgid "gas and liquid Components currently actve on the table to activate this shield."
+msgstr ""
+
+#: video7.php:65
+msgid "It also requires them to sustain the spell."
+msgstr ""
+
+#: video7.php:66
+msgid "The rule section, this identifies any additionnal effects of the spell."
+msgstr ""
+
+#: video7.php:67
+msgid "The rules of this matter shield grants an ability to the caster"
+msgstr ""
+
+#: video7.php:68
+msgid "that allows them to add extra durability to the shield as a free action."
+msgstr ""
+
+#: video7.php:69
+msgid "The broadcast bar,"
+msgstr ""
+
+#: video7.php:70
+msgid "this bar helps communicates what the card does to other players,"
+msgstr ""
+
+#: video7.php:71
+msgid "in the case of shields and defenses"
+msgstr ""
+
+#: video7.php:72
+msgid "it identify what spheres"
+msgstr ""
+
+#: video7.php:73
+msgid "the shield or defense blocks."
+msgstr ""
+
+#: video7.php:74
+msgid "The empowerments bar,"
+msgstr ""
+
+#: video7.php:75
+msgid "this is just a quick reference section"
+msgstr ""
+
+#: video7.php:76
+msgid "to help you identify the different enpowerments and effects of the card."
+msgstr ""
+
+#: video7.php:77
+msgid "It is for reference only."
+msgstr ""
+

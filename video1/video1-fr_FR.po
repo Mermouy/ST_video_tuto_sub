@@ -1,0 +1,175 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: S'sT Tutorial video 1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-01-30 14:11+0100\n"
+"PO-Revision-Date: 2014-01-30 15:24+0100\n"
+"Last-Translator: MerMouY <mermouy@gmail.com>\n"
+"Language-Team: Boardgametrans <boardgametrans@gmail.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SearchPath-0: /media/Tera/Travail/ST-tuto-trans/video1\n"
+
+#: /media/Tera/Travail/ST-tuto-trans/video1/video1.php:6
+msgid "Serpents Tongue Tutorial video"
+msgstr "Serpent's Tongue Tutoriel Vidéo"
+
+#: /media/Tera/Travail/ST-tuto-trans/video1/video1.php:10
+msgid "Welcome to the world of Serpent's Tongue,"
+msgstr "Bienvenue dans le monde de Serpent's Tongue"
+
+#: /media/Tera/Travail/ST-tuto-trans/video1/video1.php:11
+#, fuzzy
+msgid "a world of magic that exist behind the [..] Normal society."
+msgstr "Un monde magique [qui se cache loin des yeux] de la société normale."
+
+#: /media/Tera/Travail/ST-tuto-trans/video1/video1.php:12
+msgid "In Serpents Tongue, players will take on the roles of Magis"
+msgstr "Dans Serpent's Tongue, les joueurs incarnent des Magis"
+
+#: /media/Tera/Travail/ST-tuto-trans/video1/video1.php:13
+#, fuzzy
+msgid "Time was been [...] to learn to speak the language of creation."
+msgstr "après leur long apprentissage de la langue magique,"
+
+#: /media/Tera/Travail/ST-tuto-trans/video1/video1.php:14
+#, fuzzy
+msgid "Lifetime after lifetime, they will [...]into this world"
+msgstr "une vie après l'autre, ils [...] dans ce monde"
+
+#: /media/Tera/Travail/ST-tuto-trans/video1/video1.php:15
+msgid "and seek to expand their power and their influence."
+msgstr "et essaieront d'étendre leur pouvoir et leur influence."
+
+#: /media/Tera/Travail/ST-tuto-trans/video1/video1.php:16
+msgid "Now you have a role in the modern times,"
+msgstr "Vous avez maintenant un rôle à tenir dans ces temps nouveaux,"
+
+#: /media/Tera/Travail/ST-tuto-trans/video1/video1.php:17
+msgid "filled with the memory of campus lives of Magis!"
+msgstr "secondé par les mémoires de vies entières de Magis!"
+
+#: /media/Tera/Travail/ST-tuto-trans/video1/video1.php:18
+msgid "But be warned, the world of Magis is a dangerous one,"
+msgstr "Mais prenez garde, le monde des Magis peut-être dangereux,"
+
+#: /media/Tera/Travail/ST-tuto-trans/video1/video1.php:19
+#, fuzzy
+msgid "[...] factions will be watching you"
+msgstr "Des factions [...] vous surveilleront"
+
+#: /media/Tera/Travail/ST-tuto-trans/video1/video1.php:20
+msgid "and attempting to asserve or destroy you."
+msgstr "et essaieront peut-être de vous asservir ou de vous détruire."
+
+#: /media/Tera/Travail/ST-tuto-trans/video1/video1.php:21
+#, fuzzy
+msgid "[...] magicks interdimensionnal beings and ancient cabals strip the whole reality\""
+msgstr "[...] magiques inter-dimensionnels et d'anciennes Cabals façonnent la réalité entière\""
+
+#: /media/Tera/Travail/ST-tuto-trans/video1/video1.php:22
+msgid "Serpent's Tongue is a spellcasting simulation game,"
+msgstr "Serpent's Tongue est un jeu de simulation magique,"
+
+#: /media/Tera/Travail/ST-tuto-trans/video1/video1.php:23
+msgid "that can be played solo or up to eight players."
+msgstr "qui peut-être joué seul ou jusqu'à 8 joueurs."
+
+#: /media/Tera/Travail/ST-tuto-trans/video1/video1.php:24
+msgid "It has both player versus player as well as cooperative modes. "
+msgstr "Il Comprend des modes coopératifs ou joueur contre joueur."
+
+#: /media/Tera/Travail/ST-tuto-trans/video1/video1.php:25
+msgid "It can be played with nothing more than the core set,"
+msgstr "Le set de base suffit pour commencer à jouer,"
+
+#: /media/Tera/Travail/ST-tuto-trans/video1/video1.php:26
+msgid "which contains everything you need for two players."
+msgstr "il contient tout ce qu'il faut pour 2 joueurs."
+
+#: /media/Tera/Travail/ST-tuto-trans/video1/video1.php:27
+msgid "It contains 108 giant spell cards, artifacts and specialization cards."
+msgstr "Il contient 108 cartes géantes de sorts, d'artefacts et de spécialisations,"
+
+#: /media/Tera/Travail/ST-tuto-trans/video1/video1.php:28
+msgid "Two leather spellbooks, energy trackers, focus gems and more."
+msgstr "deux grimoires de cuir, des compteurs d'énergie, une gemme de concentration et plus encore."
+
+#: /media/Tera/Travail/ST-tuto-trans/video1/video1.php:29
+msgid "As a Magi you'll construct the spellbook or the codex,"
+msgstr "En tant que Magi vous devrez concevoir votre grimoire ou Codex,"
+
+#: /media/Tera/Travail/ST-tuto-trans/video1/video1.php:30
+msgid "filling it with 27 spells"
+msgstr "en y incluant 27 sorts"
+
+#: /media/Tera/Travail/ST-tuto-trans/video1/video1.php:31
+msgid "that you will have to master in order to cast."
+msgstr "que vous devrez maîtriser avant de lancer."
+
+#: /media/Tera/Travail/ST-tuto-trans/video1/video1.php:32
+msgid "Each spell has an activation phrase,"
+msgstr "Chaque sort est lié à une phrase d'activation,"
+
+#: /media/Tera/Travail/ST-tuto-trans/video1/video1.php:33
+msgid "written in a fully fonctionning language of Magick,"
+msgstr "écrite dans un langage magique fonctionnel,"
+
+#: /media/Tera/Travail/ST-tuto-trans/video1/video1.php:34
+msgid "that must be memorized or decoded on the fly "
+msgstr "qui doit être mémorisé ou décodé au passage"
+
+#: /media/Tera/Travail/ST-tuto-trans/video1/video1.php:35
+msgid "in order for to be played."
+msgstr "pour être joué."
+
+#: /media/Tera/Travail/ST-tuto-trans/video1/video1.php:36
+msgid "In addition you will choose a specialization which will focus your abilities"
+msgstr "Vous choisirez également une Spécialisation qui optimisera vos compétences"
+
+#: /media/Tera/Travail/ST-tuto-trans/video1/video1.php:37
+msgid "and create synergies whithin your spellbook."
+msgstr "et créera une véritable synergie au sein de votre grimoire."
+
+#: /media/Tera/Travail/ST-tuto-trans/video1/video1.php:38
+msgid "Also, each Magi carrys one powerful artefact,"
+msgstr "De plus chaque Magi possède un artefact puissant,"
+
+#: /media/Tera/Travail/ST-tuto-trans/video1/video1.php:39
+msgid "which provides a wild range of advantages."
+msgstr "qui procure une vaste variété d'avantages."
+
+#: /media/Tera/Travail/ST-tuto-trans/video1/video1.php:40
+msgid "Your specialization, your artefact and your 27 spells codex,"
+msgstr "Votre spécialisation, votre artefact et les 27 sorts de votre Codex,"
+
+#: /media/Tera/Travail/ST-tuto-trans/video1/video1.php:41
+msgid "will make up your persona as a Magi"
+msgstr "définiront votre propre Magi"
+
+#: /media/Tera/Travail/ST-tuto-trans/video1/video1.php:42
+msgid "and dertermine your range of strategies."
+msgstr "et détermineront vos possibilités de stratégies."
+
+#: /media/Tera/Travail/ST-tuto-trans/video1/video1.php:43
+msgid "As a Magi you will participate in magical combats,"
+msgstr "En tant que Magi vous participerez aux combats magiques,"
+
+#: /media/Tera/Travail/ST-tuto-trans/video1/video1.php:44
+msgid "where the objective is to destroy your opponents."
+msgstr "où l'objectif est de détruire vos adversaires;"
+
+#: /media/Tera/Travail/ST-tuto-trans/video1/video1.php:45
+msgid "As well experience storybased adventure campaigns,"
+msgstr "tout comme que de véritables campagnes d'aventures contées,"
+
+#: /media/Tera/Travail/ST-tuto-trans/video1/video1.php:46
+msgid "released seperatly from the core set."
+msgstr "qui sortiront séparément du set de base."
+

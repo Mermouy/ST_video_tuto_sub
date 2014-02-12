@@ -1,0 +1,133 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-06 02:18+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: video3.php:6
+msgid "Serpents Tongue Tutorial video"
+msgstr ""
+
+#: video3.php:11
+msgid "Combat round sequence:"
+msgstr ""
+
+#: video3.php:13
+msgid "Serpent's Tongue's combat whether in pvp matches or"
+msgstr ""
+
+#: video3.php:15
+msgid "while facing an encounter in cooperatives adventures,"
+msgstr ""
+
+#: video3.php:17
+msgid "is played other a series of rounds,"
+msgstr ""
+
+#: video3.php:19
+msgid "each round is divided into 4 phases."
+msgstr ""
+
+#: video3.php:21
+msgid ""
+"All players complete each phase before the group move to the next phase,"
+msgstr ""
+
+#: video3.php:23
+msgid "these phases are:"
+msgstr ""
+
+#: video3.php:25
+msgid "Initiative phase"
+msgstr ""
+
+#: video3.php:27
+msgid "Maintenance phase"
+msgstr ""
+
+#: video3.php:29
+msgid "Spell preparation"
+msgstr ""
+
+#: video3.php:31
+msgid "and the Action phase"
+msgstr ""
+
+#: video3.php:33
+msgid "Initiative phase:"
+msgstr ""
+
+#: video3.php:35
+msgid "This phase always begins with a Resonnance roll,"
+msgstr ""
+
+#: video3.php:37
+msgid "a single player roll the ten sided die,"
+msgstr ""
+
+#: video3.php:39
+msgid "and everyone gains the result in"
+msgstr ""
+
+#: video3.php:41
+msgid " \"Resonnance\" according to this chart."
+msgstr ""
+
+#: video3.php:43
+msgid "Then you determine the order of initiative:"
+msgstr ""
+
+#: video3.php:45
+msgid "the player with the highest \"Harmony\" goes first."
+msgstr ""
+
+#: video3.php:47
+msgid "then the player with the highest \"Harmony\" on the other team."
+msgstr ""
+
+#: video3.php:49
+msgid ""
+"In there is a tie, then the initiative goes to the player with highest "
+"\"Resonnance\","
+msgstr ""
+
+#: video3.php:51
+msgid "then \"Will\" and then \"Essence\"."
+msgstr ""
+
+#: video3.php:53
+msgid "The third step of initiative phase is to roll for \"Discord\" events,"
+msgstr ""
+
+#: video3.php:55
+msgid "players with seven or more \"Discord\" must roll 2 ten sided dice,"
+msgstr ""
+
+#: video3.php:57
+msgid "if they roll under their amount of \"Discord\","
+msgstr ""
+
+#: video3.php:59
+msgid "then a \"Discord\" event is triggered, which by default,"
+msgstr ""
+
+#: video3.php:61
+msgid "causes an immediate 3 points of damage to that player."
+msgstr ""
+
+#: video3.php:63
+msgid "Some scenarios will change the effects of \"Discord Events\"."
+msgstr ""

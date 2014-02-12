@@ -1,0 +1,115 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-06 02:38+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: video4.php:6
+msgid "Serpents Tongue Tutorial video"
+msgstr ""
+
+#: video4.php:11
+msgid "Maintenance phase:"
+msgstr ""
+
+#: video4.php:13
+msgid "During the maintenance phase,"
+msgstr ""
+
+#: video4.php:15
+msgid "players resolve any effects that have duration."
+msgstr ""
+
+#: video4.php:17
+msgid "Players choose what spells to resolve first"
+msgstr ""
+
+#: video4.php:19
+msgid "by resolving in order of their zones:"
+msgstr ""
+
+#: video4.php:21
+msgid "Each Magi represent a field of zones:"
+msgstr ""
+
+#: video4.php:23
+msgid "The Attack zone"
+msgstr ""
+
+#: video4.php:25
+msgid "The Defense zone"
+msgstr ""
+
+#: video4.php:27
+msgid "And The Enhancements zone"
+msgstr ""
+
+#: video4.php:29
+msgid "Magis begin their maintenance phase resolving their attack zone,"
+msgstr ""
+
+#: video4.php:31
+msgid "the attack zone is where the Magi's opponents"
+msgstr ""
+
+#: video4.php:33
+msgid "place their offensive spells targeting the Magi."
+msgstr ""
+
+#: video4.php:35
+msgid "Then they move to the defense zone where the defense spells are placed,"
+msgstr ""
+
+#: video4.php:37
+msgid ""
+"and finally their enhancements zone where enhancements spells are placed"
+msgstr ""
+
+#: video4.php:39
+msgid "and which also holds the Magi's specialization and artefact."
+msgstr ""
+
+#: video4.php:41
+msgid "To resolve the spell first any cost to sustain the spell are paid,"
+msgstr ""
+
+#: video4.php:43
+msgid "then the spell impacts or causes its effects,"
+msgstr ""
+
+#: video4.php:45
+msgid "and finaly a duration chip if it has one is removed."
+msgstr ""
+
+#: video4.php:47
+msgid "For example, player one has an acidic matter in his attack zone,"
+msgstr ""
+
+#: video4.php:49
+msgid "during his maintenance phase, there is no sustain cost to this spell"
+msgstr ""
+
+#: video4.php:51
+msgid "so it impacts, causing one essence damage to his target,"
+msgstr ""
+
+#: video4.php:53
+msgid "and then a duration chip is removed,"
+msgstr ""
+
+#: video4.php:55
+msgid "if the last duration chip is removed then the spell is discarded"
+msgstr ""
